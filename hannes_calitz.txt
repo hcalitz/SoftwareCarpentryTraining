@@ -1,0 +1,3 @@
+I am resonsible for maintaining the Institute of Fundamental Sciences Condor cluster at Massey University in Palmerston North.
+Other duties include training people in the use of the cluster, presenting workshops on LateX, Linux, parallel processing,  
+data analysis and relevant scientific computing topics. 
